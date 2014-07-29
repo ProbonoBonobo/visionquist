@@ -131,4 +131,4 @@ count = range(1,100)
 
 # to do: satisfy the 140-character constraint for tweetability
 for quote in count:
-	print random.choice(animist_noun_phrase), random.choice(past_predicates), random.choice(terminal_quotes), random.choice(terminal_commentary)
+	print random.choice(animist_noun_phrase), random.choice(verb_phrases), random.choice(terminal_quotes), random.choice(terminal_commentary)
